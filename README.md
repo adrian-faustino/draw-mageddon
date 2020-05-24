@@ -1,7 +1,7 @@
 # draw-mageddon
 Multiplayer multi-lobby drawing game created with MERN stack, Socket.io, and HTML5 Canvas.
 
-Link to the site: https://draw-mageddon.herokuapp.com/
+Link to the site: https://draw-mageddon.herokuapp.com/ (Active link -- may take a few seconds to load due to dynos)
 
 Currently only supports Chrome browser on the desktop.
 
