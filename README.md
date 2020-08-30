@@ -1,5 +1,8 @@
-# draw-mageddon
-Multiplayer multi-lobby drawing game created with MERN stack, Socket.io, and HTML5 Canvas.
+## Video Demo
+Link: https://youtu.be/PjMwslXvpuc
+
+## Description
+A 4-player multi-lobby web browser drawing game using web sockets to sync each unique game instance. Each player draws a quadrant of an image. At the end of each round the game puts together each section and animates how each player drew their section.
 
 Link to the site: https://draw-mageddon.herokuapp.com/ (Active link -- may take a few seconds to load due to dynos)
 
